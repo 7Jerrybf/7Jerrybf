@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <div align="center">
-  <h1>Hi there, I'm a passionate developer! 👋</h1>
+  <h1>Hi there, I'm a passionate developer!</h1>
   <p>
     I am currently studying <b>Information Management</b> at <b>National Formosa University (NFU)</b>. <br>
     I love building robust backend services, exploring artificial intelligence, and playing with hardware integrations. 
