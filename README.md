@@ -44,6 +44,5 @@
 #### Infra & Integration
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 ![LINE BOT](https://img.shields.io/badge/LINE%20BOT-00C300?style=for-the-badge&logo=line&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
