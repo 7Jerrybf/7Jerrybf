@@ -13,7 +13,8 @@
 - **Education:** Information Management @ National Formosa University (NFU)
 - **Interests:** Backend Development, AI Applications, IoT & Hardware Integration
 - **Currently Learning:** Deepening my knowledge in AI models and scalable system architecture.
-- **How to reach me:** 	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [loe15680@gmail.com]
+- **How to reach me:**
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [loe15680@gmail.com]
 
 ---
 
