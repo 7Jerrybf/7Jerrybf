@@ -13,8 +13,7 @@
 - **Education:** Information Management @ National Formosa University (NFU)
 - **Interests:** Backend Development, AI Applications, IoT & Hardware Integration
 - **Currently Learning:** Deepening my knowledge in AI models and scalable system architecture.
-- **How to reach me:**
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [loe15680@gmail.com]
+- **How to reach me:** [loe15680@gmail.com]
 
 ---
 
@@ -42,6 +41,7 @@
 #### AI & Machine Learning
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/ultralytics-%23111F68.svg?style=for-the-badge&logo=ultralytics&logoColor=white)
 
 #### Infra & Integration
